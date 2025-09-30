@@ -1,0 +1,6 @@
+2025-09-30 10:05:01,123 - INFO - 10.0.0.1 - Service started
+2025-09-30 10:05:05,456 - WARN - 10.0.0.2 - High memory usage detected
+2025-09-30 10:06:10,789 - ERROR - 192.168.1.10 - Failed login for user 'admin'
+2025-09-30 10:07:00,001 - ERROR - 192.168.1.11 - Database connection timeout
+2025-09-30 11:00:00,000 - INFO - 10.0.0.3 - Heartbeat
+2025-09-30 11:05:33,222 - WARN - 192.168.1.10 - Slow response time
